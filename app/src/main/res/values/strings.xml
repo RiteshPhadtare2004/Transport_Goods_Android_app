@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Transport Goods</string>
+    <string name="log_out">Log out</string>
+    <string name="todo">TODO</string>
+    <string name="login">Login</string>
+    <string name="select_starting_point_and_destination">Select Starting Point and Destination</string>
+    <string name="search">Search</string>
+    <string name="transporter_account">Transporter Account</string>
+
+    <string-array name="starting_point_and_destination">
+        <item>Mumbai</item>
+        <item>Pune</item>
+        <item>Satara</item>
+        <item>Kolhapur</item>
+        <item>Banglore</item>
+    </string-array>
+    <string-array name="vehical_type">
+        <item>Car</item>
+        <item>Bike</item>
+        <item>Truck</item>
+        <item>Travelers</item>
+    </string-array>
+</resources>
